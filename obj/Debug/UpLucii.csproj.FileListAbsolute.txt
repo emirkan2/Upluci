@@ -9,3 +9,6 @@ c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\bin\Debug\New
 c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\obj\Debug\UpLucii.csprojResolveAssemblyReference.cache
 c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\obj\Debug\UpLucii.exe
 c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\obj\Debug\UpLucii.pdb
+C:\Users\Ben\Documents\GitHub\Upluci\bin\Debug\UpLucii.exe.config
+C:\Users\Ben\Documents\GitHub\Upluci\obj\Debug\UpLucii.exe
+C:\Users\Ben\Documents\GitHub\Upluci\obj\Debug\UpLucii.pdb
