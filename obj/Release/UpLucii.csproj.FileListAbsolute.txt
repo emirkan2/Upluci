@@ -1,0 +1,10 @@
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\UpLucii\UpLucii\bin\Release\UpLucii.exe.config
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\UpLucii\UpLucii\bin\Release\UpLucii.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\UpLucii\UpLucii\bin\Release\UpLucii.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\UpLucii\UpLucii\bin\Release\EloBuddy.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\UpLucii\UpLucii\bin\Release\EloBuddy.SDK.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\UpLucii\UpLucii\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\UpLucii\UpLucii\bin\Release\SharpDX.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\UpLucii\UpLucii\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\UpLucii\UpLucii\obj\Release\UpLucii.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\UpLucii\UpLucii\obj\Release\UpLucii.pdb

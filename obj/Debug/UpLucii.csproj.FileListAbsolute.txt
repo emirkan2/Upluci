@@ -1,0 +1,11 @@
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\bin\Debug\UpLucii.exe.config
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\bin\Debug\UpLucii.exe
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\bin\Debug\UpLucii.pdb
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\bin\Debug\EloBuddy.dll
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\bin\Debug\EloBuddy.SDK.dll
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\bin\Debug\SharpDX.dll
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\bin\Debug\Newtonsoft.Json.dll
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\obj\Debug\UpLucii.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\obj\Debug\UpLucii.exe
+c:\users\ben\documents\visual studio 2015\Projects\UpLucii\UpLucii\obj\Debug\UpLucii.pdb
